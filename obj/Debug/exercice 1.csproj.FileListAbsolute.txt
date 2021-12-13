@@ -1,0 +1,8 @@
+C:\Users\dylan\source\repos\cned seance 1\exercice 1\exercice 1\bin\Debug\exercice 1.exe.config
+C:\Users\dylan\source\repos\cned seance 1\exercice 1\exercice 1\bin\Debug\exercice 1.exe
+C:\Users\dylan\source\repos\cned seance 1\exercice 1\exercice 1\bin\Debug\exercice 1.pdb
+C:\Users\dylan\source\repos\cned seance 1\exercice 1\exercice 1\obj\Debug\exercice 1.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\cned seance 1\exercice 1\exercice 1\obj\Debug\exercice 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dylan\source\repos\cned seance 1\exercice 1\exercice 1\obj\Debug\exercice 1.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\cned seance 1\exercice 1\exercice 1\obj\Debug\exercice 1.exe
+C:\Users\dylan\source\repos\cned seance 1\exercice 1\exercice 1\obj\Debug\exercice 1.pdb
